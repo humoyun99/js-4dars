@@ -1,0 +1,6 @@
+// const listItem=document.getElementsByTagName('bady')
+// console.log(listItem)
+const listItem=document.getElementsByClassName('list-item')
+console.log(listItem)
+const clickBtn=document.getElementById('click-btn')
+console.log(clickBtn)
